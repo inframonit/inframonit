@@ -1,3 +1,4 @@
+![logo](https://logo.inframonit.com/1/cover.png)
 # www.inframonit.com
 
 inframonit installer
